@@ -4,7 +4,7 @@
                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 <picture>
   <source media=" " srcset=" ">
-  <img alt="ALT TEXT" src=" ">
+  <img alt="ALT TEXT" src="UBLsc1992.jpg">
 </picture>
 
 <p>I joined United Bank Limited as cashier in 1976.  I did Banking Diploma from IBP, served as Instructor/Trainer of Banking Courses at UBL Staff College for seven years (1988-1994).  I resigned from UBL in 1994. I joined KIET, a degree awarding institute approved by HEC, in year 2000.  I served KIET as DBA/Manager MIS for eleven years.  With a small team of three programmers and myself, I developed web-based Student Database System (in Oracle) for KIET, capable of managing multiple campuses data of students, teachers and staff.  I served as Campus Director of KIET North Nazimabad Campus for two years (2011-13). I resigned from KIET in Sep.2013.</p>
